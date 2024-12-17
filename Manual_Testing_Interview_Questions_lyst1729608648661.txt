@@ -1,0 +1,67 @@
+Manual Testing Interview Questions
+-------------------------------------------------------------------------------------
+1. Why Testing is necessary?   
+2. What are Drawbacks of Manual Testing?
+3. What is a Defect / Bug?
+4. What is Failure?
+5. Why S/w App will have Defects?
+6. What is Verification and Validation?
+7. What is the day-day job of a Tester?
+8. Explain SDLC?
+9. Explain STLC?
+10. What is a Review? and What is the Objective?
+11. What are diff. types of Reviews?
+12. What is WBT?
+13. What is Unit Testing?
+14. What is Integration Testing?
+15. What is BBT?
+16. What is System Testing?
+17. What is Smoke Testing and Sanity Testing?
+18. What is the diff. between Smoke Testing and Sanity Testing?
+19. What is Re-Testing and Regression Testing?
+20. What is the diff. between Re-Testing and Regression Testing?
+21. What is End-to-End Testing?
+22. What is System Integration Testing?
+23. What is Velnurebility / Penetration Testing? [Security Testing]
+24. What is Efficiency[Performance] Testing?
+25. What is Entry Criteria for System Testing? [When to Start Testing?]
+26. What is Exit Criteria for System Testing? [When to Stop Testing]
+27. What is a Test Scenario?
+28. What is a TestCase?
+29. Explain ECP / BVA techniques?
+30. Explain RTM?
+31. Explain Defect / Bug Life Cycle?
+32. Explain Defect Severity and Defect Priority?
+33. An Example for a Defect which takes Low Severity but High Priority?
+34. An Example for a Defect which takes High Severity but Low Priority?
+35. Explain Agile Methodology?
+36. What is Product BackLog?
+37. What is an Epic?
+38. What is User Story?
+39. What is Sprint?
+40. What is Jira Tool?
+------------------------------------------------------------------------------------
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
